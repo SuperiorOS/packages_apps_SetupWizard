@@ -37,6 +37,7 @@
             android:adjustViewBounds="true"
             android:scaleType="fitCenter"
             android:gravity="center"
+            android:tint="?android:attr/colorAccent"
             android:padding="@dimen/content_margin_left"/>
 
         <org.lineageos.setupwizard.NavigationLayout
